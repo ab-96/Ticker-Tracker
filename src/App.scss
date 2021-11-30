@@ -1,0 +1,19 @@
+.app {
+  .greeting {
+    text-align: center;
+
+    &__heading {
+      color: black;
+    }
+
+    &>* {
+      margin: 20px;
+    }
+  }
+
+  .wrapper {
+    display: flex;
+    gap: 1rem;
+    padding: 10px;
+  }
+}
