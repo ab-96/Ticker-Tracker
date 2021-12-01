@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ab-96/ticker-tracker/static/css/main.61d514a2.chunk.css",
+    "main.js": "/ab-96/ticker-tracker/static/js/main.58525e61.chunk.js",
+    "main.js.map": "/ab-96/ticker-tracker/static/js/main.58525e61.chunk.js.map",
+    "runtime-main.js": "/ab-96/ticker-tracker/static/js/runtime-main.206339d0.js",
+    "runtime-main.js.map": "/ab-96/ticker-tracker/static/js/runtime-main.206339d0.js.map",
+    "static/js/2.aa5163ec.chunk.js": "/ab-96/ticker-tracker/static/js/2.aa5163ec.chunk.js",
+    "static/js/2.aa5163ec.chunk.js.map": "/ab-96/ticker-tracker/static/js/2.aa5163ec.chunk.js.map",
+    "static/js/3.a3e5c15e.chunk.js": "/ab-96/ticker-tracker/static/js/3.a3e5c15e.chunk.js",
+    "static/js/3.a3e5c15e.chunk.js.map": "/ab-96/ticker-tracker/static/js/3.a3e5c15e.chunk.js.map",
+    "index.html": "/ab-96/ticker-tracker/index.html",
+    "static/css/main.61d514a2.chunk.css.map": "/ab-96/ticker-tracker/static/css/main.61d514a2.chunk.css.map",
+    "static/js/2.aa5163ec.chunk.js.LICENSE.txt": "/ab-96/ticker-tracker/static/js/2.aa5163ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.206339d0.js",
+    "static/js/2.aa5163ec.chunk.js",
+    "static/css/main.61d514a2.chunk.css",
+    "static/js/main.58525e61.chunk.js"
+  ]
+}
