@@ -1,9 +1,19 @@
 .employee {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
-    padding-left: 10px;
+    align-items: center;
     border: 2px solid black;
     width: 300px;
     height: 400px;
+    padding: 10px;
+}
+
+.counter-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 90%;
+    border: 2px solid black;
+
 }

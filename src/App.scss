@@ -10,10 +10,12 @@
       margin: 20px;
     }
   }
-
   .wrapper {
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     gap: 1rem;
     padding: 10px;
   }
 }
+
