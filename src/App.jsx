@@ -5,8 +5,6 @@ import team from "./data/team";
 
 const App = () => {
 
-
-
     return (
         <div className="app">
             <header className="greeting">

@@ -9,9 +9,9 @@ const EmployeeCard = (props) => {
         <div className="employee">
             <h3 className="employee__name">{name}</h3>
             <h3 className="employee__role">{role}</h3>
-            <div className="counter-wrapper">
-                <h3 className="counter-wrapper__title">Counter</h3>
-                <h3>0</h3>
+            <div className="counter">
+                <h3 className="counter__title">Counter</h3>
+                <h3 className="counter__score">0</h3>
             </div>
         </div>
     )

@@ -5,15 +5,43 @@
     border: 2px solid black;
     width: 300px;
     height: 400px;
-    padding: 10px;
+    border-radius: 15px;
+    background: linear-gradient(50deg, #FEC163, #DE4313 );
+
+    &__name {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 700;
+        font-size: 1.5rem;
+        color: white;
+        border-bottom: 2px solid black;
+
+    }
+
+    &__role {
+        font-size: 1.3rem;
+        font-style: italic;
+        font-weight: 300;
+
+    }
 }
 
-.counter-wrapper {
+.counter {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 100%;
-    height: 90%;
-    border: 2px solid black;
+    width: 90%;
+    height: 55%;
+    border: 4px solid white;
+    border-radius: 15px;
+
+    &__title {
+        font-size: 1.5rem;
+        font-weight: 700;
+    }
+
+    &__score {
+        font-size: 1.5rem;
+        font-weight: 700;
+    }
 
 }
