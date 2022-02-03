@@ -8,14 +8,15 @@ const handleIncrement = () => {
    
         setCounter(counter + 1)
 }
+
 const handleDecrement = () => {
     if (counter === 0) {
         setCounter(0)
     } else {
         setCounter(counter - 1)
     }
-
 }
+//It works
 
 
     return (
